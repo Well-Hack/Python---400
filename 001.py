@@ -1,1 +1,7 @@
-print('Hello world')
+print('1 - Crie três variáveis com três tipos de dados diferentes, respeitando sua sintaxe:')
+nome = str('Wellerson')
+idade = int(30)
+altura = float(22.5)
+print(nome)
+print(idade)
+print(altura)
